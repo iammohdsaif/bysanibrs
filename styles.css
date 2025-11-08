@@ -141,18 +141,3 @@ footer .legal{border-top:1px solid #222;padding:12px 0;color:#aaa;text-align:cen
   .hero-actions{flex-direction:column;align-items:flex-start}
   footer .foot{flex-direction:column;align-items:flex-start}
 }
-
-
-/* ======== Product Detail Pages ======== */
-.breadcrumb { font-size:14px; color:var(--muted); margin-bottom:10px; }
-.breadcrumb a { color:var(--brand); }
-.product-detail h1 { font-family:Merriweather,serif; margin:10px 0 6px; }
-.product-hero {
-  display:block; margin:20px auto; max-width:520px;
-  border-radius:20px; box-shadow:0 8px 25px rgba(0,0,0,0.15);
-}
-.product-badges{display:flex;gap:10px;flex-wrap:wrap;margin:10px 0}
-.badge-soft{background:#fff;border:1px solid #eee;border-radius:999px;padding:6px 10px;font-weight:600;font-size:12px}
-.specs{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:16px 0}
-.spec{background:#fff;border:1px solid #eee;border-radius:12px;padding:12px}
-.backlink{display:inline-block;margin-top:8px}
